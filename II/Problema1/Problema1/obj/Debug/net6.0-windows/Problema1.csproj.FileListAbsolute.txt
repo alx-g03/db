@@ -1,0 +1,84 @@
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Problema1.exe
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Problema1.deps.json
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Problema1.runtimeconfig.json
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Problema1.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Problema1.pdb
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Desktop\Problema1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\Problema1.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\Problema1.Form1.resources
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\Problema1.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\Problema1.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\Problema1.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\Problema1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\Problema1.csproj.CopyComplete
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\Problema1.dll
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\refint\Problema1.dll
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\Problema1.pdb
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\Problema1.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Problema1\obj\Debug\net6.0-windows\ref\Problema1.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Problema1.exe
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Problema1.deps.json
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Problema1.runtimeconfig.json
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Problema1.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Problema1.pdb
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\Problema1.csproj.AssemblyReference.cache
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\Problema1.Form1.resources
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\Problema1.csproj.GenerateResource.cache
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\Problema1.AssemblyInfoInputs.cache
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\Problema1.AssemblyInfo.cs
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\Problema1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\Problema1.csproj.CopyComplete
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\Problema1.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\refint\Problema1.dll
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\Problema1.pdb
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\Problema1.genruntimeconfig.cache
+C:\Users\Alex\Facultate\semestrul-4\SGBD-2023\seminar-6 (modele examen)\Problema1\Problema1\obj\Debug\net6.0-windows\ref\Problema1.dll
